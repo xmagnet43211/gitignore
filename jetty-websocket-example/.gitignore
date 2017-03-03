@@ -1,0 +1,6 @@
+$ cat .gitignore
+    # exclude everything except directory src/
+    /*
+    !/src
+    /scr/*
+    !/src/

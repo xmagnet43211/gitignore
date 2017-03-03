@@ -1,0 +1,42 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jetty-websocket-example:war exploded">
+    <output-path>$PROJECT_DIR$/target/jetty-websocket-example-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jetty-websocket-example" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-server:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-http:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-io:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-servlet:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-security:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:javax-websocket-server-impl:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-annotations:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-plus:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-jndi:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-webapp:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-xml:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.2" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:5.0.1" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm-commons:5.0.1" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm-tree:5.0.1" />
+          <element id="library" level="project" name="Maven: javax.websocket:javax.websocket-api:1.0" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-server:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-common:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-api:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-servlet:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:javax-websocket-client-impl:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.websocket:websocket-client:9.2.11.v20150529" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-util:9.2.11.v20150529" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/jetty-websocket-example-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="jetty-websocket-example/web/Web" />
+    </root>
+  </artifact>
+</component>
